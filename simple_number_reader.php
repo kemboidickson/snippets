@@ -1,6 +1,6 @@
 
 <?php 
-/*its your own duty to make sure the variiable passed in here as $number is in a number format, no commas no nothing. pure numbers.
+/*its your own duty to make sure the variable passed in here - $number is in a number format, no commas no nothing. pure numbers.
 
 * So handle all your errors
 *ALL THE BEST
